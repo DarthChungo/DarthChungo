@@ -1,8 +1,6 @@
 # Hello
 
-You have reached the new profile of DarthChungo.
-
-Check out my keybase: [darthchungo](https://keybase.io/darthchungo)
+Hello, this is my profile. I mainly work on small hobby projects. I mainly code C, C++ & Java.
 
 <!--
 **DarthChungo/DarthChungo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
