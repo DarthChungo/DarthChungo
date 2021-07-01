@@ -1,6 +1,6 @@
 # Hello
 
-Hello, this is my profile. I mainly work on small hobby projects. I mainly code C, C++ & Java.
+Hello, this is my profile. I mainly work on small hobby projects in C, C++ & Java.
 
 <!--
 **DarthChungo/DarthChungo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
